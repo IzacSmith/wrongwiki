@@ -1,18 +1,18 @@
-# React + Vite
+# WrongHow
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+WrongHow is a parody wiki-style website featuring fictional articles, misleading information, and ridiculous explanations.
 
-Currently, two official plugins are available:
+## Website
+https://izacsmith.github.io/wrongwiki
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Features
+- Fictional and humorous articles.
+- Wiki-inspired layout.
+- Article thumbnails and descriptions.
+- JSON-based article database.
 
-## React Compiler
+## Contributing
+Articles are stored in JSON format, making it easy to add, edit, and expand the collection.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# wrongwiki
-# wrongwiki
+## Disclaimer
+WrongHow is intended for entertainment. Articles are fictional and should not be treated as factual information.
