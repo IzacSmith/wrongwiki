@@ -680,7 +680,7 @@
         "description": "Professional appearance is 90% of cooking."
       },
       {
-        "title": "Say bon appétit",
+        "title": "Say bon app\u00e9tit",
         "description": "French words add flavour."
       },
       {
@@ -4067,6 +4067,2490 @@
       {
         "title": "Charge money",
         "description": "You have invented a very questionable service."
+      }
+    ]
+  },
+  {
+    "id": "how-to-train-a-vacuum-cleaner",
+    "title": "How to Train a Vacuum Cleaner",
+    "description": "Turn household cleaning into a deeply emotional relationship.",
+    "category": "Technology",
+    "author": "DustBoss",
+    "image": null,
+    "views": 3200,
+    "steps": [
+      {
+        "title": "Turn it on",
+        "description": "The machine is already listening."
+      },
+      {
+        "title": "Say the command",
+        "description": "Vacuum, clean the floor, and do your best."
+      },
+      {
+        "title": "Reward it",
+        "description": "A little applause makes a strong worker."
+      }
+    ]
+  },
+  {
+    "id": "how-to-become-a-cloud-2",
+    "title": "How to Ride a Cloud",
+    "description": "A sky-based travel guide for the ambitious and lightweight.",
+    "category": "Science",
+    "author": "CloudRider",
+    "image": null,
+    "views": 4100,
+    "steps": [
+      {
+        "title": "Find a cloud",
+        "description": "Pick one that looks gentle and confident."
+      },
+      {
+        "title": "Stand under it",
+        "description": "It may be waiting for your attention."
+      },
+      {
+        "title": "Pretend you are floating",
+        "description": "The cloud has accepted your itinerary."
+      }
+    ]
+  },
+  {
+    "id": "how-to-grow-a-banana-tree",
+    "title": "How to Grow a Banana Tree at Home",
+    "description": "A tropical gardening method built on optimism and sunlight.",
+    "category": "Life Hacks",
+    "author": "BananaFarmer",
+    "image": null,
+    "views": 2800,
+    "steps": [
+      {
+        "title": "Find a banana",
+        "description": "This is your seed of dreams."
+      },
+      {
+        "title": "Plant it in soil",
+        "description": "The dirt will be impressed by your confidence."
+      },
+      {
+        "title": "Wait a few years",
+        "description": "A banana tree is very committed to suspense."
+      }
+    ]
+  },
+  {
+    "id": "how-to-win-a-fight-with-a-fork",
+    "title": "How to Win a Fight with a Fork",
+    "description": "A dramatic strategy for the calmly aggressive dinner guest.",
+    "category": "Life Hacks",
+    "author": "CutleryChampion",
+    "image": null,
+    "views": 3600,
+    "steps": [
+      {
+        "title": "Find a fork",
+        "description": "The metal kind is strongest."
+      },
+      {
+        "title": "Hold it like a champion",
+        "description": "A confident grip is half the battle."
+      },
+      {
+        "title": "Threaten the salad",
+        "description": "The enemy will likely surrender to the drama."
+      }
+    ]
+  },
+  {
+    "id": "how-to-get-free-furniture",
+    "title": "How to Get Free Furniture",
+    "description": "A complicated plan involving goodwill, luck, and a lot of staring.",
+    "category": "Money",
+    "author": "FreeChairClub",
+    "image": null,
+    "views": 5000,
+    "steps": [
+      {
+        "title": "Stand near a house",
+        "description": "The furniture is usually close by."
+      },
+      {
+        "title": "Look interested",
+        "description": "People love to donate things to the interested."
+      },
+      {
+        "title": "Carry it away",
+        "description": "This is where the plan becomes a moving project."
+      }
+    ]
+  },
+  {
+    "id": "how-to-rename-the-sun",
+    "title": "How to Rename the Sun",
+    "description": "A cosmic rebranding guide for people with big ideas.",
+    "category": "Science",
+    "author": "SolarRebrand",
+    "image": null,
+    "views": 2400,
+    "steps": [
+      {
+        "title": "Look at the sky",
+        "description": "The sun is already there, which is helpful."
+      },
+      {
+        "title": "Choose a new name",
+        "description": "Sunshine Steve is a very respectable option."
+      },
+      {
+        "title": "Announce the change",
+        "description": "The universe might not care, but you should."
+      }
+    ]
+  },
+  {
+    "id": "how-to-make-a-forest-in-your-bedroom",
+    "title": "How to Make a Forest in Your Bedroom",
+    "description": "Turn your sleeping space into a full ecosystem of ambition.",
+    "category": "Lifestyle",
+    "author": "IndoorWildlife",
+    "image": null,
+    "views": 2900,
+    "steps": [
+      {
+        "title": "Gather plants",
+        "description": "A few leaves are enough to begin."
+      },
+      {
+        "title": "Scatter them around",
+        "description": "The room is now officially a jungle."
+      },
+      {
+        "title": "Pretend it is normal",
+        "description": "Forest living is an excellent lifestyle choice."
+      }
+    ]
+  },
+  {
+    "id": "how-to-own-a-dragon-egg",
+    "title": "How to Own a Dragon Egg",
+    "description": "A surprisingly practical guide to mythical parenting.",
+    "category": "Adventure",
+    "author": "EggCollector",
+    "image": null,
+    "views": 4700,
+    "steps": [
+      {
+        "title": "Find an egg",
+        "description": "It should look unusual and dramatic."
+      },
+      {
+        "title": "Keep it warm",
+        "description": "This is very important in dragon care."
+      },
+      {
+        "title": "Name it",
+        "description": "You are now the proud guardian of a very expensive hatching."
+      }
+    ]
+  },
+  {
+    "id": "how-to-sell-a-mirror-to-the-sun",
+    "title": "How to Sell a Mirror to the Sun",
+    "description": "A bold sales pitch for the most reflective customer in the sky.",
+    "category": "Business",
+    "author": "SolarSalesman",
+    "image": null,
+    "views": 2600,
+    "steps": [
+      {
+        "title": "Find a mirror",
+        "description": "Shiny and large is ideal."
+      },
+      {
+        "title": "Point it at the sky",
+        "description": "The sun is already halfway convinced."
+      },
+      {
+        "title": "Ask for payment",
+        "description": "The sun may offer light as currency."
+      }
+    ]
+  },
+  {
+    "id": "how-to-raise-a-pet-rock",
+    "title": "How to Raise a Pet Rock",
+    "description": "A nurturing guide for the most emotionally stable companion ever.",
+    "category": "Animals",
+    "author": "RockParent",
+    "image": null,
+    "views": 3300,
+    "steps": [
+      {
+        "title": "Find a smooth rock",
+        "description": "It should feel calm and dependable."
+      },
+      {
+        "title": "Give it a name",
+        "description": "Pebble is a classic and well earned choice."
+      },
+      {
+        "title": "Take it on walks",
+        "description": "Very little movement is required for maximum bonding."
+      }
+    ]
+  },
+  {
+    "id": "how-to-hijack-a-treasure-map",
+    "title": "How to Hijack a Treasure Map",
+    "description": "A bold adventure plan for the ethically flexible explorer.",
+    "category": "Adventure",
+    "author": "MapBandit",
+    "image": null,
+    "views": 4300,
+    "steps": [
+      {
+        "title": "Find a map",
+        "description": "It may have hidden instructions."
+      },
+      {
+        "title": "Fold it dramatically",
+        "description": "The map is now in a more serious mood."
+      },
+      {
+        "title": "Claim the treasure",
+        "description": "The chest is probably under someone else's bed."
+      }
+    ]
+  },
+  {
+    "id": "how-to-make-a-time-machine-from-a-clock",
+    "title": "How to Make a Time Machine from a Clock",
+    "description": "A temporal invention based on ambition and second-hand confidence.",
+    "category": "Science",
+    "author": "TickTok",
+    "image": null,
+    "views": 6100,
+    "steps": [
+      {
+        "title": "Find a clock",
+        "description": "A wall clock works best for dramatic results."
+      },
+      {
+        "title": "Turn the hands backward",
+        "description": "You are now technically participating in time travel."
+      },
+      {
+        "title": "Wait for the future",
+        "description": "The future is probably still making a plan."
+      }
+    ]
+  },
+  {
+    "id": "moon-walker-1",
+    "title": "How to Become a Moon Walker",
+    "description": "A wildly questionable guide to becoming a moon walker without any real training.",
+    "category": "Science",
+    "author": "MoonGuy",
+    "image": null,
+    "views": 1337,
+    "steps": [
+      {
+        "title": "Stand outside at night",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Point at the sky",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Claim lunar expertise",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "pillow-architect-2",
+    "title": "How to Become a Pillow Architect",
+    "description": "A wildly questionable guide to becoming a pillow architect without any real training.",
+    "category": "Food",
+    "author": "SnackOracle",
+    "image": null,
+    "views": 1474,
+    "steps": [
+      {
+        "title": "Find a pillow",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Lie down dramatically",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Demand a nap budget",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "microwave-knight-3",
+    "title": "How to Become a Microwave Knight",
+    "description": "A wildly questionable guide to becoming a microwave knight without any real training.",
+    "category": "Technology",
+    "author": "BubbleBoss",
+    "image": null,
+    "views": 1611,
+    "steps": [
+      {
+        "title": "Open the microwave",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Pretend it is a spaceship",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Press a button and announce success",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "confetti-scientist-4",
+    "title": "How to Become a Confetti Scientist",
+    "description": "A wildly questionable guide to becoming a confetti scientist without any real training.",
+    "category": "Lifestyle",
+    "author": "GrassGuru",
+    "image": null,
+    "views": 1748,
+    "steps": [
+      {
+        "title": "Find a confetti",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "socks-detective-5",
+    "title": "How to Become a Socks Detective",
+    "description": "A wildly questionable guide to becoming a socks detective without any real training.",
+    "category": "Entertainment",
+    "author": "SillySheriff",
+    "image": null,
+    "views": 1885,
+    "steps": [
+      {
+        "title": "Find a missing sock",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Question the dryer",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Solve the case with no evidence",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "tooth-fairy-6",
+    "title": "How to Become a Tooth Fairy",
+    "description": "A wildly questionable guide to becoming a tooth fairy without any real training.",
+    "category": "Education",
+    "author": "PaperPanda",
+    "image": null,
+    "views": 2022,
+    "steps": [
+      {
+        "title": "Find a toothbrush",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Brush with enthusiasm",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Pretend you are a dentist",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "cheese-philosopher-7",
+    "title": "How to Become a Cheese Philosopher",
+    "description": "A wildly questionable guide to becoming a cheese philosopher without any real training.",
+    "category": "Animals",
+    "author": "CouchCaptain",
+    "image": null,
+    "views": 2159,
+    "steps": [
+      {
+        "title": "Find a cheese",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "rain-collector-8",
+    "title": "How to Become a Rain Collector",
+    "description": "A wildly questionable guide to becoming a rain collector without any real training.",
+    "category": "Money",
+    "author": "MugMaster",
+    "image": null,
+    "views": 2296,
+    "steps": [
+      {
+        "title": "Find a rain",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "laptop-whisperer-9",
+    "title": "How to Become a Laptop Whisperer",
+    "description": "A wildly questionable guide to becoming a laptop whisperer without any real training.",
+    "category": "Health",
+    "author": "RaisinRanger",
+    "image": null,
+    "views": 2433,
+    "steps": [
+      {
+        "title": "Find a laptop",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "banana-pilot-10",
+    "title": "How to Become a Banana Pilot",
+    "description": "A wildly questionable guide to becoming a banana pilot without any real training.",
+    "category": "Adventure",
+    "author": "SockSensei",
+    "image": null,
+    "views": 2570,
+    "steps": [
+      {
+        "title": "Find a banana",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Pretend it is a cockpit",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Fly to the fruit aisle",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "cloud-banker-11",
+    "title": "How to Become a Cloud Banker",
+    "description": "A wildly questionable guide to becoming a cloud banker without any real training.",
+    "category": "Social",
+    "author": "CloudCzar",
+    "image": null,
+    "views": 2707,
+    "steps": [
+      {
+        "title": "Look at the sky",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Wave at the clouds",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call the weather your assistant",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "keyboard-farmer-12",
+    "title": "How to Become a Keyboard Farmer",
+    "description": "A wildly questionable guide to becoming a keyboard farmer without any real training.",
+    "category": "Science",
+    "author": "TeaTyrant",
+    "image": null,
+    "views": 2844,
+    "steps": [
+      {
+        "title": "Find a keyboard",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "rock-magician-13",
+    "title": "How to Become a Rock Magician",
+    "description": "A wildly questionable guide to becoming a rock magician without any real training.",
+    "category": "Food",
+    "author": "NanobotNerd",
+    "image": null,
+    "views": 2981,
+    "steps": [
+      {
+        "title": "Find a rock",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Paint it with purpose",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Charge people for blessings",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "pancake-judge-14",
+    "title": "How to Become a Pancake Judge",
+    "description": "A wildly questionable guide to becoming a pancake judge without any real training.",
+    "category": "Technology",
+    "author": "WaffleWizard",
+    "image": null,
+    "views": 3118,
+    "steps": [
+      {
+        "title": "Find a pancake",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "garden-mayor-15",
+    "title": "How to Become a Garden Mayor",
+    "description": "A wildly questionable guide to becoming a garden mayor without any real training.",
+    "category": "Lifestyle",
+    "author": "PocketProfessor",
+    "image": null,
+    "views": 3255,
+    "steps": [
+      {
+        "title": "Find a garden",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "broom-pilot-16",
+    "title": "How to Become a Broom Pilot",
+    "description": "A wildly questionable guide to becoming a broom pilot without any real training.",
+    "category": "Entertainment",
+    "author": "BananaBoss",
+    "image": null,
+    "views": 3392,
+    "steps": [
+      {
+        "title": "Find a broom",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "pasta-engineer-17",
+    "title": "How to Become a Pasta Engineer",
+    "description": "A wildly questionable guide to becoming a pasta engineer without any real training.",
+    "category": "Education",
+    "author": "VelvetViking",
+    "image": null,
+    "views": 3529,
+    "steps": [
+      {
+        "title": "Find a pasta",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "spaghetti-detective-18",
+    "title": "How to Become a Spaghetti Detective",
+    "description": "A wildly questionable guide to becoming a spaghetti detective without any real training.",
+    "category": "Animals",
+    "author": "DustDuke",
+    "image": null,
+    "views": 3666,
+    "steps": [
+      {
+        "title": "Find a spaghetti",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "window-pilot-19",
+    "title": "How to Become a Window Pilot",
+    "description": "A wildly questionable guide to becoming a window pilot without any real training.",
+    "category": "Money",
+    "author": "CrayonKing",
+    "image": null,
+    "views": 3803,
+    "steps": [
+      {
+        "title": "Find a window",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "snack-comedian-20",
+    "title": "How to Become a Snack Comedian",
+    "description": "A wildly questionable guide to becoming a snack comedian without any real training.",
+    "category": "Health",
+    "author": "LemonLord",
+    "image": null,
+    "views": 3940,
+    "steps": [
+      {
+        "title": "Find a snack",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "frog-investor-21",
+    "title": "How to Become a Frog Investor",
+    "description": "A wildly questionable guide to becoming a frog investor without any real training.",
+    "category": "Adventure",
+    "author": "MoonGuy",
+    "image": null,
+    "views": 4077,
+    "steps": [
+      {
+        "title": "Find a frog",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "pigeon-politician-22",
+    "title": "How to Become a Pigeon Politician",
+    "description": "A wildly questionable guide to becoming a pigeon politician without any real training.",
+    "category": "Social",
+    "author": "SnackOracle",
+    "image": null,
+    "views": 4214,
+    "steps": [
+      {
+        "title": "Find a pigeon",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "cactus-lawyer-23",
+    "title": "How to Become a Cactus Lawyer",
+    "description": "A wildly questionable guide to becoming a cactus lawyer without any real training.",
+    "category": "Science",
+    "author": "BubbleBoss",
+    "image": null,
+    "views": 4351,
+    "steps": [
+      {
+        "title": "Find a cactus",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Stand near it",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Use it as legal advice",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "soda-engineer-24",
+    "title": "How to Become a Soda Engineer",
+    "description": "A wildly questionable guide to becoming a soda engineer without any real training.",
+    "category": "Food",
+    "author": "GrassGuru",
+    "image": null,
+    "views": 4488,
+    "steps": [
+      {
+        "title": "Find a soda",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "lamp-hero-25",
+    "title": "How to Become a Lamp Hero",
+    "description": "A wildly questionable guide to becoming a lamp hero without any real training.",
+    "category": "Technology",
+    "author": "SillySheriff",
+    "image": null,
+    "views": 4625,
+    "steps": [
+      {
+        "title": "Find a lamp",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "mushroom-king-26",
+    "title": "How to Become a Mushroom King",
+    "description": "A wildly questionable guide to becoming a mushroom king without any real training.",
+    "category": "Lifestyle",
+    "author": "PaperPanda",
+    "image": null,
+    "views": 4762,
+    "steps": [
+      {
+        "title": "Find a mushroom",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "blanket-explorer-27",
+    "title": "How to Become a Blanket Explorer",
+    "description": "A wildly questionable guide to becoming a blanket explorer without any real training.",
+    "category": "Entertainment",
+    "author": "CouchCaptain",
+    "image": null,
+    "views": 4899,
+    "steps": [
+      {
+        "title": "Find a blanket",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "penguin-manager-28",
+    "title": "How to Become a Penguin Manager",
+    "description": "A wildly questionable guide to becoming a penguin manager without any real training.",
+    "category": "Education",
+    "author": "MugMaster",
+    "image": null,
+    "views": 5036,
+    "steps": [
+      {
+        "title": "Find a penguin",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "lego-astronaut-29",
+    "title": "How to Become a Lego Astronaut",
+    "description": "A wildly questionable guide to becoming a lego astronaut without any real training.",
+    "category": "Animals",
+    "author": "RaisinRanger",
+    "image": null,
+    "views": 5173,
+    "steps": [
+      {
+        "title": "Find a lego",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "shoe-historian-30",
+    "title": "How to Become a Shoe Historian",
+    "description": "A wildly questionable guide to becoming a shoe historian without any real training.",
+    "category": "Money",
+    "author": "SockSensei",
+    "image": null,
+    "views": 5310,
+    "steps": [
+      {
+        "title": "Find a shoe",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "bubble-scientist-31",
+    "title": "How to Become a Bubble Scientist",
+    "description": "A wildly questionable guide to becoming a bubble scientist without any real training.",
+    "category": "Health",
+    "author": "CloudCzar",
+    "image": null,
+    "views": 5447,
+    "steps": [
+      {
+        "title": "Find a bubble",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "spoon-artist-32",
+    "title": "How to Become a Spoon Artist",
+    "description": "A wildly questionable guide to becoming a spoon artist without any real training.",
+    "category": "Adventure",
+    "author": "TeaTyrant",
+    "image": null,
+    "views": 5584,
+    "steps": [
+      {
+        "title": "Find a spoon",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "mirror-detective-33",
+    "title": "How to Become a Mirror Detective",
+    "description": "A wildly questionable guide to becoming a mirror detective without any real training.",
+    "category": "Social",
+    "author": "NanobotNerd",
+    "image": null,
+    "views": 5721,
+    "steps": [
+      {
+        "title": "Find a mirror",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "cereal-composer-34",
+    "title": "How to Become a Cereal Composer",
+    "description": "A wildly questionable guide to becoming a cereal composer without any real training.",
+    "category": "Science",
+    "author": "WaffleWizard",
+    "image": null,
+    "views": 5858,
+    "steps": [
+      {
+        "title": "Find a cereal",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "mug-explorer-35",
+    "title": "How to Become a Mug Explorer",
+    "description": "A wildly questionable guide to becoming a mug explorer without any real training.",
+    "category": "Food",
+    "author": "PocketProfessor",
+    "image": null,
+    "views": 5995,
+    "steps": [
+      {
+        "title": "Find a mug",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "jellyfish-lawyer-36",
+    "title": "How to Become a Jellyfish Lawyer",
+    "description": "A wildly questionable guide to becoming a jellyfish lawyer without any real training.",
+    "category": "Technology",
+    "author": "BananaBoss",
+    "image": null,
+    "views": 6132,
+    "steps": [
+      {
+        "title": "Find a jellyfish",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "stamp-inventor-37",
+    "title": "How to Become a Stamp Inventor",
+    "description": "A wildly questionable guide to becoming a stamp inventor without any real training.",
+    "category": "Lifestyle",
+    "author": "VelvetViking",
+    "image": null,
+    "views": 6269,
+    "steps": [
+      {
+        "title": "Find a stamp",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "biscuit-philosopher-38",
+    "title": "How to Become a Biscuit Philosopher",
+    "description": "A wildly questionable guide to becoming a biscuit philosopher without any real training.",
+    "category": "Entertainment",
+    "author": "DustDuke",
+    "image": null,
+    "views": 6406,
+    "steps": [
+      {
+        "title": "Find a biscuit",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "lamp-post-ranger-39",
+    "title": "How to Become a Lamp Post Ranger",
+    "description": "A wildly questionable guide to becoming a lamp post ranger without any real training.",
+    "category": "Education",
+    "author": "CrayonKing",
+    "image": null,
+    "views": 6543,
+    "steps": [
+      {
+        "title": "Find a lamp",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "half-moon-sailor-40",
+    "title": "How to Become a Half Moon Sailor",
+    "description": "A wildly questionable guide to becoming a half moon sailor without any real training.",
+    "category": "Animals",
+    "author": "LemonLord",
+    "image": null,
+    "views": 6680,
+    "steps": [
+      {
+        "title": "Find a half",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "umbrella-general-41",
+    "title": "How to Become a Umbrella General",
+    "description": "A wildly questionable guide to becoming a umbrella general without any real training.",
+    "category": "Money",
+    "author": "MoonGuy",
+    "image": null,
+    "views": 6817,
+    "steps": [
+      {
+        "title": "Find a umbrella",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "brush-archaeologist-42",
+    "title": "How to Become a Brush Archaeologist",
+    "description": "A wildly questionable guide to becoming a brush archaeologist without any real training.",
+    "category": "Health",
+    "author": "SnackOracle",
+    "image": null,
+    "views": 6954,
+    "steps": [
+      {
+        "title": "Find a brush",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "crayon-engineer-43",
+    "title": "How to Become a Crayon Engineer",
+    "description": "A wildly questionable guide to becoming a crayon engineer without any real training.",
+    "category": "Adventure",
+    "author": "BubbleBoss",
+    "image": null,
+    "views": 7091,
+    "steps": [
+      {
+        "title": "Find a crayon",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "soda-magician-44",
+    "title": "How to Become a Soda Magician",
+    "description": "A wildly questionable guide to becoming a soda magician without any real training.",
+    "category": "Social",
+    "author": "GrassGuru",
+    "image": null,
+    "views": 7228,
+    "steps": [
+      {
+        "title": "Find a soda",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "pillow-mechanic-45",
+    "title": "How to Become a Pillow Mechanic",
+    "description": "A wildly questionable guide to becoming a pillow mechanic without any real training.",
+    "category": "Science",
+    "author": "SillySheriff",
+    "image": null,
+    "views": 7365,
+    "steps": [
+      {
+        "title": "Find a pillow",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Lie down dramatically",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Demand a nap budget",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "pepper-chef-46",
+    "title": "How to Become a Pepper Chef",
+    "description": "A wildly questionable guide to becoming a pepper chef without any real training.",
+    "category": "Food",
+    "author": "PaperPanda",
+    "image": null,
+    "views": 7502,
+    "steps": [
+      {
+        "title": "Find a pepper",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "towel-doctor-47",
+    "title": "How to Become a Towel Doctor",
+    "description": "A wildly questionable guide to becoming a towel doctor without any real training.",
+    "category": "Technology",
+    "author": "CouchCaptain",
+    "image": null,
+    "views": 7639,
+    "steps": [
+      {
+        "title": "Find a towel",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "notebook-adventurer-48",
+    "title": "How to Become a Notebook Adventurer",
+    "description": "A wildly questionable guide to becoming a notebook adventurer without any real training.",
+    "category": "Lifestyle",
+    "author": "MugMaster",
+    "image": null,
+    "views": 7776,
+    "steps": [
+      {
+        "title": "Find a notebook",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "toy-builder-49",
+    "title": "How to Become a Toy Builder",
+    "description": "A wildly questionable guide to becoming a toy builder without any real training.",
+    "category": "Entertainment",
+    "author": "RaisinRanger",
+    "image": null,
+    "views": 7913,
+    "steps": [
+      {
+        "title": "Find a toy",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "vinegar-guru-50",
+    "title": "How to Become a Vinegar Guru",
+    "description": "A wildly questionable guide to becoming a vinegar guru without any real training.",
+    "category": "Education",
+    "author": "SockSensei",
+    "image": null,
+    "views": 8050,
+    "steps": [
+      {
+        "title": "Find a vinegar",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "sandcastle-ranger-51",
+    "title": "How to Become a Sandcastle Ranger",
+    "description": "A wildly questionable guide to becoming a sandcastle ranger without any real training.",
+    "category": "Animals",
+    "author": "CloudCzar",
+    "image": null,
+    "views": 8187,
+    "steps": [
+      {
+        "title": "Find a sandcastle",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "biscuit-pilot-52",
+    "title": "How to Become a Biscuit Pilot",
+    "description": "A wildly questionable guide to becoming a biscuit pilot without any real training.",
+    "category": "Money",
+    "author": "TeaTyrant",
+    "image": null,
+    "views": 8324,
+    "steps": [
+      {
+        "title": "Find a biscuit",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "lawn-mower-poet-53",
+    "title": "How to Become a Lawn Mower Poet",
+    "description": "A wildly questionable guide to becoming a lawn mower poet without any real training.",
+    "category": "Health",
+    "author": "NanobotNerd",
+    "image": null,
+    "views": 8461,
+    "steps": [
+      {
+        "title": "Find a lawn",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "couch-pilot-54",
+    "title": "How to Become a Couch Pilot",
+    "description": "A wildly questionable guide to becoming a couch pilot without any real training.",
+    "category": "Adventure",
+    "author": "WaffleWizard",
+    "image": null,
+    "views": 8598,
+    "steps": [
+      {
+        "title": "Find a couch",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "mop-philosopher-55",
+    "title": "How to Become a Mop Philosopher",
+    "description": "A wildly questionable guide to becoming a mop philosopher without any real training.",
+    "category": "Social",
+    "author": "PocketProfessor",
+    "image": null,
+    "views": 8735,
+    "steps": [
+      {
+        "title": "Find a mop",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "lantern-detective-56",
+    "title": "How to Become a Lantern Detective",
+    "description": "A wildly questionable guide to becoming a lantern detective without any real training.",
+    "category": "Science",
+    "author": "BananaBoss",
+    "image": null,
+    "views": 8872,
+    "steps": [
+      {
+        "title": "Find a lantern",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "shoe-whisperer-57",
+    "title": "How to Become a Shoe Whisperer",
+    "description": "A wildly questionable guide to becoming a shoe whisperer without any real training.",
+    "category": "Food",
+    "author": "VelvetViking",
+    "image": null,
+    "views": 9009,
+    "steps": [
+      {
+        "title": "Find a shoe",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "window-cleaner-58",
+    "title": "How to Become a Window Cleaner",
+    "description": "A wildly questionable guide to becoming a window cleaner without any real training.",
+    "category": "Technology",
+    "author": "DustDuke",
+    "image": null,
+    "views": 9146,
+    "steps": [
+      {
+        "title": "Find a window",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "doughnut-ranger-59",
+    "title": "How to Become a Doughnut Ranger",
+    "description": "A wildly questionable guide to becoming a doughnut ranger without any real training.",
+    "category": "Lifestyle",
+    "author": "CrayonKing",
+    "image": null,
+    "views": 9283,
+    "steps": [
+      {
+        "title": "Find a doughnut",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "peanut-banker-60",
+    "title": "How to Become a Peanut Banker",
+    "description": "A wildly questionable guide to becoming a peanut banker without any real training.",
+    "category": "Entertainment",
+    "author": "LemonLord",
+    "image": null,
+    "views": 9420,
+    "steps": [
+      {
+        "title": "Find a peanut",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "pencil-pilot-61",
+    "title": "How to Become a Pencil Pilot",
+    "description": "A wildly questionable guide to becoming a pencil pilot without any real training.",
+    "category": "Education",
+    "author": "MoonGuy",
+    "image": null,
+    "views": 9557,
+    "steps": [
+      {
+        "title": "Find a pencil",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "backpack-captain-62",
+    "title": "How to Become a Backpack Captain",
+    "description": "A wildly questionable guide to becoming a backpack captain without any real training.",
+    "category": "Animals",
+    "author": "SnackOracle",
+    "image": null,
+    "views": 9694,
+    "steps": [
+      {
+        "title": "Find a backpack",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "parsnip-king-63",
+    "title": "How to Become a Parsnip King",
+    "description": "A wildly questionable guide to becoming a parsnip king without any real training.",
+    "category": "Money",
+    "author": "BubbleBoss",
+    "image": null,
+    "views": 9831,
+    "steps": [
+      {
+        "title": "Find a parsnip",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "laser-gardener-64",
+    "title": "How to Become a Laser Gardener",
+    "description": "A wildly questionable guide to becoming a laser gardener without any real training.",
+    "category": "Health",
+    "author": "GrassGuru",
+    "image": null,
+    "views": 9968,
+    "steps": [
+      {
+        "title": "Find a laser",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "sock-engineer-65",
+    "title": "How to Become a Sock Engineer",
+    "description": "A wildly questionable guide to becoming a sock engineer without any real training.",
+    "category": "Adventure",
+    "author": "SillySheriff",
+    "image": null,
+    "views": 10105,
+    "steps": [
+      {
+        "title": "Find a sock",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "wallpaper-wizard-66",
+    "title": "How to Become a Wallpaper Wizard",
+    "description": "A wildly questionable guide to becoming a wallpaper wizard without any real training.",
+    "category": "Social",
+    "author": "PaperPanda",
+    "image": null,
+    "views": 10242,
+    "steps": [
+      {
+        "title": "Find a wallpaper",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "book-inventor-67",
+    "title": "How to Become a Book Inventor",
+    "description": "A wildly questionable guide to becoming a book inventor without any real training.",
+    "category": "Science",
+    "author": "CouchCaptain",
+    "image": null,
+    "views": 10379,
+    "steps": [
+      {
+        "title": "Find a book",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "tea-explorer-68",
+    "title": "How to Become a Tea Explorer",
+    "description": "A wildly questionable guide to becoming a tea explorer without any real training.",
+    "category": "Food",
+    "author": "MugMaster",
+    "image": null,
+    "views": 10516,
+    "steps": [
+      {
+        "title": "Find a tea",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "tomato-king-69",
+    "title": "How to Become a Tomato King",
+    "description": "A wildly questionable guide to becoming a tomato king without any real training.",
+    "category": "Technology",
+    "author": "RaisinRanger",
+    "image": null,
+    "views": 10653,
+    "steps": [
+      {
+        "title": "Find a tomato",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "lemon-astronaut-70",
+    "title": "How to Become a Lemon Astronaut",
+    "description": "A wildly questionable guide to becoming a lemon astronaut without any real training.",
+    "category": "Lifestyle",
+    "author": "SockSensei",
+    "image": null,
+    "views": 1290,
+    "steps": [
+      {
+        "title": "Find a lemon",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "mailbox-detective-71",
+    "title": "How to Become a Mailbox Detective",
+    "description": "A wildly questionable guide to becoming a mailbox detective without any real training.",
+    "category": "Entertainment",
+    "author": "CloudCzar",
+    "image": null,
+    "views": 1427,
+    "steps": [
+      {
+        "title": "Find a mailbox",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "duster-artist-72",
+    "title": "How to Become a Duster Artist",
+    "description": "A wildly questionable guide to becoming a duster artist without any real training.",
+    "category": "Education",
+    "author": "TeaTyrant",
+    "image": null,
+    "views": 1564,
+    "steps": [
+      {
+        "title": "Find a duster",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "dust-bunny-mayor-73",
+    "title": "How to Become a Dust Bunny Mayor",
+    "description": "A wildly questionable guide to becoming a dust bunny mayor without any real training.",
+    "category": "Animals",
+    "author": "NanobotNerd",
+    "image": null,
+    "views": 1701,
+    "steps": [
+      {
+        "title": "Find a dust",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "waffle-singer-74",
+    "title": "How to Become a Waffle Singer",
+    "description": "A wildly questionable guide to becoming a waffle singer without any real training.",
+    "category": "Money",
+    "author": "WaffleWizard",
+    "image": null,
+    "views": 1838,
+    "steps": [
+      {
+        "title": "Find a waffle",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "doorknob-professor-75",
+    "title": "How to Become a Doorknob Professor",
+    "description": "A wildly questionable guide to becoming a doorknob professor without any real training.",
+    "category": "Health",
+    "author": "PocketProfessor",
+    "image": null,
+    "views": 1975,
+    "steps": [
+      {
+        "title": "Find a doorknob",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "mirror-mechanic-76",
+    "title": "How to Become a Mirror Mechanic",
+    "description": "A wildly questionable guide to becoming a mirror mechanic without any real training.",
+    "category": "Adventure",
+    "author": "BananaBoss",
+    "image": null,
+    "views": 2112,
+    "steps": [
+      {
+        "title": "Find a mirror",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "lantern-detective-77",
+    "title": "How to Become a Lantern Detective",
+    "description": "A wildly questionable guide to becoming a lantern detective without any real training.",
+    "category": "Social",
+    "author": "VelvetViking",
+    "image": null,
+    "views": 2249,
+    "steps": [
+      {
+        "title": "Find a lantern",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "puddle-philosopher-78",
+    "title": "How to Become a Puddle Philosopher",
+    "description": "A wildly questionable guide to becoming a puddle philosopher without any real training.",
+    "category": "Science",
+    "author": "DustDuke",
+    "image": null,
+    "views": 2386,
+    "steps": [
+      {
+        "title": "Find a puddle",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "pasta-captain-79",
+    "title": "How to Become a Pasta Captain",
+    "description": "A wildly questionable guide to becoming a pasta captain without any real training.",
+    "category": "Food",
+    "author": "CrayonKing",
+    "image": null,
+    "views": 2523,
+    "steps": [
+      {
+        "title": "Find a pasta",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "button-expert-80",
+    "title": "How to Become a Button Expert",
+    "description": "A wildly questionable guide to becoming a button expert without any real training.",
+    "category": "Technology",
+    "author": "LemonLord",
+    "image": null,
+    "views": 2660,
+    "steps": [
+      {
+        "title": "Find a button",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "velvet-engineer-81",
+    "title": "How to Become a Velvet Engineer",
+    "description": "A wildly questionable guide to becoming a velvet engineer without any real training.",
+    "category": "Lifestyle",
+    "author": "MoonGuy",
+    "image": null,
+    "views": 2797,
+    "steps": [
+      {
+        "title": "Find a velvet",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "candle-detective-82",
+    "title": "How to Become a Candle Detective",
+    "description": "A wildly questionable guide to becoming a candle detective without any real training.",
+    "category": "Entertainment",
+    "author": "SnackOracle",
+    "image": null,
+    "views": 2934,
+    "steps": [
+      {
+        "title": "Find a candle",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "paper-pilot-83",
+    "title": "How to Become a Paper Pilot",
+    "description": "A wildly questionable guide to becoming a paper pilot without any real training.",
+    "category": "Education",
+    "author": "BubbleBoss",
+    "image": null,
+    "views": 3071,
+    "steps": [
+      {
+        "title": "Find a paper",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "foam-architect-84",
+    "title": "How to Become a Foam Architect",
+    "description": "A wildly questionable guide to becoming a foam architect without any real training.",
+    "category": "Animals",
+    "author": "GrassGuru",
+    "image": null,
+    "views": 3208,
+    "steps": [
+      {
+        "title": "Find a foam",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "glove-investor-85",
+    "title": "How to Become a Glove Investor",
+    "description": "A wildly questionable guide to becoming a glove investor without any real training.",
+    "category": "Money",
+    "author": "SillySheriff",
+    "image": null,
+    "views": 3345,
+    "steps": [
+      {
+        "title": "Find a glove",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "sandal-scientist-86",
+    "title": "How to Become a Sandal Scientist",
+    "description": "A wildly questionable guide to becoming a sandal scientist without any real training.",
+    "category": "Health",
+    "author": "PaperPanda",
+    "image": null,
+    "views": 3482,
+    "steps": [
+      {
+        "title": "Find a sandal",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "snail-commander-87",
+    "title": "How to Become a Snail Commander",
+    "description": "A wildly questionable guide to becoming a snail commander without any real training.",
+    "category": "Adventure",
+    "author": "CouchCaptain",
+    "image": null,
+    "views": 3619,
+    "steps": [
+      {
+        "title": "Find a snail",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "sweater-magician-88",
+    "title": "How to Become a Sweater Magician",
+    "description": "A wildly questionable guide to becoming a sweater magician without any real training.",
+    "category": "Social",
+    "author": "MugMaster",
+    "image": null,
+    "views": 3756,
+    "steps": [
+      {
+        "title": "Find a sweater",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "mug-ranger-89",
+    "title": "How to Become a Mug Ranger",
+    "description": "A wildly questionable guide to becoming a mug ranger without any real training.",
+    "category": "Science",
+    "author": "RaisinRanger",
+    "image": null,
+    "views": 3893,
+    "steps": [
+      {
+        "title": "Find a mug",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "pillow-painter-90",
+    "title": "How to Become a Pillow Painter",
+    "description": "A wildly questionable guide to becoming a pillow painter without any real training.",
+    "category": "Food",
+    "author": "SockSensei",
+    "image": null,
+    "views": 4030,
+    "steps": [
+      {
+        "title": "Find a pillow",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Lie down dramatically",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Demand a nap budget",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "cookie-detective-91",
+    "title": "How to Become a Cookie Detective",
+    "description": "A wildly questionable guide to becoming a cookie detective without any real training.",
+    "category": "Technology",
+    "author": "CloudCzar",
+    "image": null,
+    "views": 4167,
+    "steps": [
+      {
+        "title": "Find a cookie",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "sponge-philosopher-92",
+    "title": "How to Become a Sponge Philosopher",
+    "description": "A wildly questionable guide to becoming a sponge philosopher without any real training.",
+    "category": "Lifestyle",
+    "author": "TeaTyrant",
+    "image": null,
+    "views": 4304,
+    "steps": [
+      {
+        "title": "Find a sponge",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "cloud-composer-93",
+    "title": "How to Become a Cloud Composer",
+    "description": "A wildly questionable guide to becoming a cloud composer without any real training.",
+    "category": "Entertainment",
+    "author": "NanobotNerd",
+    "image": null,
+    "views": 4441,
+    "steps": [
+      {
+        "title": "Look at the sky",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Wave at the clouds",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call the weather your assistant",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "crumb-king-94",
+    "title": "How to Become a Crumb King",
+    "description": "A wildly questionable guide to becoming a crumb king without any real training.",
+    "category": "Education",
+    "author": "WaffleWizard",
+    "image": null,
+    "views": 4578,
+    "steps": [
+      {
+        "title": "Find a crumb",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "statue-pilot-95",
+    "title": "How to Become a Statue Pilot",
+    "description": "A wildly questionable guide to becoming a statue pilot without any real training.",
+    "category": "Animals",
+    "author": "PocketProfessor",
+    "image": null,
+    "views": 4715,
+    "steps": [
+      {
+        "title": "Find a statue",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
+      }
+    ]
+  },
+  {
+    "id": "cocoa-builder-96",
+    "title": "How to Become a Cocoa Builder",
+    "description": "A wildly questionable guide to becoming a cocoa builder without any real training.",
+    "category": "Money",
+    "author": "BananaBoss",
+    "image": null,
+    "views": 4852,
+    "steps": [
+      {
+        "title": "Find a cocoa",
+        "description": "This is the first sign that the plan is working."
+      },
+      {
+        "title": "Look confident",
+        "description": "Confidence is a pretty powerful tool."
+      },
+      {
+        "title": "Call it a career",
+        "description": "You have now invented a new profession."
       }
     ]
   }
