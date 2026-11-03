@@ -73,7 +73,7 @@ export default function Article() {
         </aside>
       </div>
     </main>
-      <Footer / >
+    <Footer / >
     </>
   );
 }
