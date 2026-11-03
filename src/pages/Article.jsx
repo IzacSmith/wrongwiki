@@ -1,5 +1,6 @@
 import { useParams, Link } from "react-router-dom";
 import articles from "../data/articles.json";
+import Footer from "../components/Footer";
 
 export default function Article() {
   const { id } = useParams();
@@ -72,5 +73,7 @@ export default function Article() {
         </aside>
       </div>
     </main>
+      <Footer / >
+    </>
   );
 }
