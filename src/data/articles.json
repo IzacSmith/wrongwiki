@@ -12763,5 +12763,28 @@
         "description": "You have now invented a new profession."
       }
     ]
+  },
+  {
+    "id": "How-To-Be-Izac",
+    "title": "How to be Izac Smith",
+    "description": "The form of binding the body and mind to another.",
+    "category": "Entertainment",
+    "author": "Zeke",
+    "image": null,
+    "views": 10000000,
+    "steps": [
+      {
+        "title": "Find a suitable Person",
+        "description": "The only suitable person is Izac."
+      },
+      {
+        "title": "Act like it belongs to you",
+        "description": "Confidence matters more than logic."
+      },
+      {
+        "title": "Declare you are Izac",
+        "description": "You have now invented a new form of idenfinity theft."
+      }
+    ]
   }
 ]
