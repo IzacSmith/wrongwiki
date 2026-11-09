@@ -8,7 +8,7 @@ export default function Footer() {
       </Link>
 
       <p>Helping people do things incorrectly since 2026.</p>
-      <small>© 2026 WrongHow. Please don't trust us.</small>
+      <small>© 2026 WrongHow.  Please don't trust us.</small>
     </footer>
   );
 }
