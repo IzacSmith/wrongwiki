@@ -43,7 +43,7 @@ export default function Article() {
 
         <img
           className="article-image"
-          src={article.image || "https://t4.ftcdn.net/jpg/19/84/25/39/360_F_1984253908_18glU0yV66HGWoiBwV4v7K5x5bEe4JXB.jpg}
+          src={article.image || "https://t4.ftcdn.net/jpg/19/84/25/39/360_F_1984253908_18glU0yV66HGWoiBwV4v7K5x5bEe4JXB.jpg"}
           alt={article.title}
         />
 
