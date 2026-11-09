@@ -23,7 +23,7 @@ export default function Articles() {
         </div>
       </main>
 
-      <Footer />
+      <Footer /> 
     </>
   );
 }
