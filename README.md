@@ -16,3 +16,4 @@ Articles are stored in JSON format, making it easy to add, edit, and expand the 
 
 ## Disclaimer
 WrongHow is intended for entertainment. Articles are fictional and should not be treated as factual information.
+ 
