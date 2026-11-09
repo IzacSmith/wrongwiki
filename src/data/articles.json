@@ -12786,5 +12786,32 @@
         "description": "You have now invented a new form of idenfinity theft."
       }
     ]
+  },
+  {
+    "id": "How-To-Fly_Oil",
+    "title": "How to fly with oil",
+    "description": "The form of binding oil to the body and mind to another.",
+    "category": "Science",
+    "author": "TravisOilMan",
+    "image": null,
+    "views": 6666666666,
+    "steps": [
+      {
+        "title": "Cover yourself with oil.",
+        "description": "OH DAM THIS SEEM TO BE SOME DIDDY STUFF!."
+      },
+      {
+        "title": "Go outside",
+        "description": "Out here is a nice weather ideal to be on a sunny day in the desert."
+      },
+      {
+        "title": "Wait for rain",
+        "description": "You are waiting covered with oil."
+      },
+      {
+        "title": "You are now flying",
+        "description": "or not, ummm soo im sorry!"
+      }
+    ]
   }
 ]
