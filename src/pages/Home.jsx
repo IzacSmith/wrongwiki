@@ -16,7 +16,7 @@ export default function Home() {
   return (
     <>
       <main className="container">
-        <section className="welcome">
+        <section className="welcome"> 
           <h1>How to do absolutely anything</h1>
           <p>
             Welcome to WrongHow, where every problem has
