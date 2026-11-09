@@ -4,7 +4,7 @@ export default function ArticleCard({ article }) {
   return (
     <Link to={`/article/${article.id}`} className="article-card">
       <img
-        src={article.image || "https://imgs.search.brave.com/ryztnfahB3zEskO75gpkcVTiM4z6JW02ViGDJ9v30Po/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90NC5m/dGNkbi5uZXQvanBn/LzIwLzQ5LzY3Lzg5/LzM2MF9GXzIwNDk2/Nzg5MzlfMENkWjRm/bFN2ajk5RGhlcmxt/Z0Zxc1RaYkhrcmh4/UkouanBn"}
+        src={article.image || "https://t4.ftcdn.net/jpg/19/84/25/39/360_F_1984253908_18glU0yV66HGWoiBwV4v7K5x5bEe4JXB.jpg"}
         alt={article.title}
       />
 
