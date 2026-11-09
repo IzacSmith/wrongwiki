@@ -14,7 +14,7 @@ export default function Category() {
   const { category } = useParams();
 
   const categoryArticles = articles.filter(
-    (article) => slugify(article.category) === category
+    (article) => slugify(article.category) === category 
   );
 
   const categoryName = categoryArticles[0]?.category;
