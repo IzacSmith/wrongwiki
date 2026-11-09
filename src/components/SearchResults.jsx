@@ -38,6 +38,6 @@ export default function SearchResults() {
       ) : (
         <p>No guides found. Try searching for something else.</p>
       )}
-    </main>
+    </main> 
   );
 }
