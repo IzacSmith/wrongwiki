@@ -12813,5 +12813,36 @@
         "description": "or not, ummm soo im sorry!"
       }
     ]
+  },
+  {
+    "id": "How-To-Beat-Minecraft",
+    "title": "How to beat minecraft.",
+    "description": "Really!! you need help..",
+    "category": "Technology",
+    "author": "Notch",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhHKAiCU10F0I7vKJTR6lfkPu9u9d9HbVbenrBB54aicKH2Hq4-cxGGvw8&s=10",
+    "views": 6666666666,
+    "steps": [
+      {
+        "title": "Go onto your browser.",
+        "description": "Yea this is useful stuff here!."
+      },
+      {
+        "title": "Go on worst client",
+        "description": "Worst client is the only way."
+      },
+      {
+        "title": "Install worst client",
+        "description": "Just install wrong client."
+      },
+      {
+        "title": "Open Minecraft",
+        "description": "JUST FLIPING OPEN UP MINECRAFT!"
+      },
+      {
+        "title": "Beat Minecraft",
+        "description": "Umm why are you flying there!"
+      }
+    ]
   }
 ]
