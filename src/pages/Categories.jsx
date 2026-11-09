@@ -20,7 +20,7 @@ export default function Categories() {
     <>
       <main className="container categories-page">
         <div className="breadcrumbs">
-          <Link to="/">Home</Link> / Categories
+          <Link to="/">Home</Link> / Categories 
         </div>
 
         <div className="categories-heading">
