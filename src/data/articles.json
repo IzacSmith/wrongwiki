@@ -281,7 +281,7 @@
     "description": "Make electricity respect your schedule.",
     "category": "Technology",
     "author": "BatteryWizard",
-    "image": null,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx_eeBsBRgKciZvX-QxYDWg4WX8C1AfSzQK7u4wnvKfw&s=10",
     "views": 3210,
     "steps": [
       {
@@ -304,7 +304,7 @@
     "description": "Discover what everyone is secretly thinking.",
     "category": "Psychology",
     "author": "MindReader420",
-    "image": null,
+    "image": "https://psychhelp.com.au/wp-content/uploads/2019/01/Unknown-4.jpeg",
     "views": 2670,
     "steps": [
       {
@@ -323,11 +323,11 @@
   },
   {
     "id": "win-every-argument",
-    "title": "How to Win Every Argument",
+    "title": "How to Win Every Argument (Like Trump)",
     "description": "Never lose a debate again with this genius strategy.",
     "category": "Social",
     "author": "DebateDestroyer",
-    "image": null,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRn_2gWMUotxTjSDoqdL070VOAG2q-dgNOUcQc7YO6LRQ&s=10",
     "views": 4100,
     "steps": [
       {
@@ -350,7 +350,7 @@
     "description": "The afterlife is closer than you think. Probably.",
     "category": "Entertainment",
     "author": "SpookySteve",
-    "image": null,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ-1dqTTMptwp3m3Rfj70MQ8TpyyKw5D-asJk54c7cuw&s=10",
     "views": 1790,
     "steps": [
       {
@@ -373,7 +373,7 @@
     "description": "No engineering degree required. Just imagination.",
     "category": "Technology",
     "author": "RobotGuy",
-    "image": null,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWelJuEmWgb5WQ7gCQwZV5vVz1Wdn9_aOWtvBz8P9_2LimNT3f6jxV7vSg&s=10",
     "views": 2010,
     "steps": [
       {
@@ -396,7 +396,7 @@
     "description": "A height-increasing method that definitely exists.",
     "category": "Health",
     "author": "TallGuyOfficial",
-    "image": null,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9EelJ84CzM5F6O3DPU_DpBZ-Tlvd6Rd94YgF6FqowIg&s=10",
     "views": 5200,
     "steps": [
       {
@@ -419,7 +419,7 @@
     "description": "An intellectual shortcut nobody asked for.",
     "category": "Education",
     "author": "ProfessorDefinitely",
-    "image": null,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRw1mtQNYqSCNX5PwaNQYug8SHfg5B4q4Jznop78zr0qS8p5b2YvckfwkhG&s=10",
     "views": 3600,
     "steps": [
       {
@@ -442,7 +442,7 @@
     "description": "The authentic Italian method, according to nobody.",
     "category": "Food",
     "author": "ChefMicrowave",
-    "image": null,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7gQORF59Mqsm0hZDYA-XTrGavOyQNaMW4xXtWuqSCDg&s=10",
     "views": 2780,
     "steps": [
       {
