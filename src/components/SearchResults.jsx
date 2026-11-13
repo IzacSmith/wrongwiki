@@ -23,11 +23,12 @@ export default function SearchResults() {
         <Link to="/">Home</Link> / Search
       </div>
 
-      <h1>Search Results</h1>
-
-      <p>
-        Results for: <strong>{query}</strong>
-      </p>
+      <div className="search-page-header">
+        <h1>Search Results</h1>
+        <p>
+          Results for: <strong>{query}</strong>
+        </p>
+      </div>
 
       {results.length > 0 ? (
         <div className="article-grid">
@@ -36,8 +37,10 @@ export default function SearchResults() {
           ))}
         </div>
       ) : (
-        <p>No guides found. Try searching for something else.</p>
+        <div className="about-header">
+          <p>No guides found. Try searching for something else.</p>
+        </div>
       )}
-    </main> 
+    </main>
   );
 }
