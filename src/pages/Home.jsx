@@ -1,10 +1,15 @@
 import { Link } from "react-router-dom";
 import articles from "../data/articles.json";
+import questionableAdvice from "../data/questionableAdvice.json";
 import ArticleCard from "../components/ArticleCard";
 import Footer from "../components/Footer";
 
-export default function Home() {
-  const featuredArticle = articles[0];
+const dailyAdviceIndex =
+  Math.floor(Date.now() / 86400000) % questionableAdvice.length;
+
+export default function Home({ profile }) {
+  const dailyAdvice = questionableAdvice[dailyAdviceIndex];
+  const featuredArticle = articles.find((article) => article.id === dailyAdvice?.articleId);
   const popularArticles = articles.slice(0, 4);
 
   const categories = [...new Set(
@@ -21,6 +26,12 @@ export default function Home() {
           <div className="welcome-copy">
             <span className="eyebrow">The internet's least reliable wisdom</span>
             <h1>How to do absolutely anything</h1>
+            {profile && (
+              <p className="profile-greeting">
+                Welcome back, <strong>{profile.displayName}</strong>. Your
+                questionable profile is ready.
+              </p>
+            )}
             <p>
               Welcome to WrongHow, where every problem has
               an answer. Whether it's correct is another story.
@@ -55,11 +66,11 @@ export default function Home() {
         {featuredArticle && (
           <section className="featured-shell">
             <div className="featured-copy">
-              <span className="eyebrow">Featured fix</span>
+              <span className="eyebrow">Today's questionable advice</span>
               <h2>{featuredArticle.title}</h2>
-              <p>{featuredArticle.description}</p>
+              <p>{dailyAdvice.tagline || featuredArticle.description}</p>
               <Link to={`/article/${featuredArticle.id}`} className="primary-link">
-                Read the guide
+                Read today's advice
               </Link>
             </div>
 

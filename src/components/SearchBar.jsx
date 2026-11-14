@@ -44,19 +44,31 @@ export default function SearchBar() {
   return (
     <div className="search-wrap">
       <form className="search" onSubmit={handleSearch}>
-        <input
-          type="text"
-          placeholder="How to do absolutely anything..."
-          value={query}
-          onChange={(e) => {
-            setQuery(e.target.value);
-            setIsOpen(Boolean(e.target.value.trim()));
-          }}
-          onFocus={() => setIsOpen(Boolean(trimmedQuery))}
-          onBlur={() => {
-            setTimeout(() => setIsOpen(false), 120);
-          }}
-        />
+        <div className="search-field">
+          <svg
+            className="search-icon"
+            viewBox="0 0 24 24"
+            aria-hidden="true"
+            focusable="false"
+          >
+            <circle cx="11" cy="11" r="6.5" />
+            <path d="m16 16 4 4" />
+          </svg>
+          <input
+            type="text"
+            placeholder="Search for a how-to..."
+            aria-label="Search articles"
+            value={query}
+            onChange={(e) => {
+              setQuery(e.target.value);
+              setIsOpen(Boolean(e.target.value.trim()));
+            }}
+            onFocus={() => setIsOpen(Boolean(trimmedQuery))}
+            onBlur={() => {
+              setTimeout(() => setIsOpen(false), 120);
+            }}
+          />
+        </div>
 
         <button type="submit">Search</button>
       </form>

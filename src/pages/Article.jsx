@@ -2,7 +2,7 @@ import { useParams, Link } from "react-router-dom";
 import articles from "../data/articles.json";
 import Footer from "../components/Footer";
 
-export default function Article() {
+export default function Article({ showRelatedArticles }) {
   const { id } = useParams();
   const article = articles.find((item) => item.id === id);
 
@@ -47,7 +47,7 @@ export default function Article() {
           alt={article.title}
         />
 
-        <div className="article-layout">
+        <div className={`article-layout${showRelatedArticles ? "" : " article-layout--no-related"}`}>
           <section className="steps">
             <h2>Steps</h2>
 
@@ -62,19 +62,21 @@ export default function Article() {
             ))}
           </section>
 
-          <aside>
-            <h3>Related Articles</h3>
+          {showRelatedArticles && (
+            <aside>
+              <h3>Related Articles</h3>
 
-            {articles
-              .filter((item) => item.id !== id)
-              .map((item) => (
-                <p key={item.id}>
-                  <Link to={`/article/${item.id}`}>
-                    {item.title}
-                  </Link>
-                </p>
-              ))}
-          </aside>
+              {articles
+                .filter((item) => item.id !== id)
+                .map((item) => (
+                  <p key={item.id}>
+                    <Link to={`/article/${item.id}`}>
+                      {item.title}
+                    </Link>
+                  </p>
+                ))}
+            </aside>
+          )}
         </div>
       </main>
 
