@@ -1,6 +1,6 @@
 # WrongHow
 
-WrongHow is a parody, wiki style website full of fictional how-to articles and
+WrongHow is a parody, wiki style website full of fictional how to articles and
 ridiculous explanations. It is for entertainment, not real world advice.
 
 **Live site:** https://izacsmith.github.io/wrongwiki
