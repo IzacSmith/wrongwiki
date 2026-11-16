@@ -1,7 +1,7 @@
 # WrongHow
 
-WrongHow is a parody, wiki-style website full of fictional how-to articles and
-ridiculous explanations. It is for entertainment, not real-world advice.
+WrongHow is a parody, wiki style website full of fictional how-to articles and
+ridiculous explanations. It is for entertainment, not real world advice.
 
 **Live site:** https://izacsmith.github.io/wrongwiki
 
@@ -16,7 +16,7 @@ ridiculous explanations. It is for entertainment, not real-world advice.
   show related articles.
 - Create a pretend local profile with a display name and icon. The profile
   appears in the header and on the homepage.
-- Responsive layouts and page transitions that respect reduced-motion
+- Responsive layouts and page transitions that respect reduced motion
   preferences.
 
 ## Static hosting and privacy
